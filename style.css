@@ -1,0 +1,87 @@
+.sectwo{
+    border-bottom: 2px solid grey;
+}  
+.test{
+    font-family: din-round, sans-serif;
+} 
+.test1 h2{
+    font-size: 24px;
+    font-weight: 700;
+}
+.test1 p{
+    font-family: 400;
+    color: rgb(119, 119, 119);
+}
+.test1 a{
+    font-weight: 700;
+    color: rgb(119, 119, 119);
+}
+.secthree{
+    border-bottom:2px solid grey ;
+}
+
+.outstan{
+    font-size: 24px;
+    text-align: center;
+}
+#test2{
+    font-size: 19px;
+    font-weight: 700;
+    text-align: left;
+}
+.secthree p{
+    color: rgb(119, 119, 119);
+    font-size: 14px;
+    text-align: left;
+}
+.endpag{
+    background-image: url("uimg/endimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.para{
+    text-align: center;
+}
+.lisec h2{
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    text-align: left;
+}
+.lisec ul{
+    list-style: none;
+}
+
+.lisec ul li a{
+    text-decoration: none;
+    color: gray;
+}
+#imagall{
+    width: 5px;
+    height: 50px;
+    margin-left: -140px;
+}
+.carousel .carousel-inner{
+    display:flex;
+    justify-content: center;
+    
+}
+.link1 a{
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.link1 a:hover{
+    background-color: gray;
+}
+.homimage{
+    background-image: url("uimg/homewall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 3rem;
+    text-align: center;
+    color: white;
+    row-gap: 20px;
+}
